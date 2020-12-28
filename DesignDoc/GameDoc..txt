@@ -1,0 +1,30 @@
+https://www.hearthstonetopdecks.com/guides/hearthstone-battlegrounds-minions-guide/
+Minion Pools
+•	Tier 1: 18 copies
+•	Tier 2: 15 copies
+•	Tier 3: 13 copies
+•	Tier 4: 11 copies
+•	Tier 5: 9 copies
+•	Tier 6: 6 copies
+https://www.pcgamesn.com/hearthstone/battlegrounds-cards-list
+
+OG Heroes List?
+https://www.vg247.com/2019/11/11/hearthstone-battlegrounds-heroes-best-tier-list/
+
+Tavern Tier	Base Cost 
+2	5 
+3	7 
+4	8 
+5	9 
+6	10 
+
+Game Flow
+
+START
+Hero Selection Phase
+LOOP
+|
+| Recruit Phase
+| Combat Phase
+|
+END

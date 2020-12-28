@@ -665,3 +665,1004 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.28-15.04.35:513][  9]Cmd: ACTOR HIDE SELECTED
 [2020.12.28-15.04.36:313][ 45]LogSlate: Took 0.006368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.12.28-15.05.43:899][308]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/CCGToolkit/CardGame/CardSets/Basic_Set/BasicSet_DataTable.BasicSet_DataTable
+[2020.12.28-16.03.53:404][329]LogMaterial: Display: Missing cached shader map for material CardShadow_Mat, compiling. 
+[2020.12.28-16.03.53:431][329]LogMaterial: Display: Missing cached shader map for material Card_Shadow_Glow_Mat, compiling. 
+[2020.12.28-16.03.53:452][329]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2020.12.28-16.03.53:452][329]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.12.28-16.03.53:452][329]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.12.28-16.03.53:452][329]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.12.28-16.03.53:452][329]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.12.28-16.03.53:452][329]LogMaterial: Display: Missing cached shader map for material CardFrame_Mat_Parent, compiling. 
+[2020.12.28-16.03.53:477][329]LogMaterial: Display: Missing cached shader map for material Card_Mat_Parent, compiling. 
+[2020.12.28-16.03.53:489][329]LogMaterial: Display: Missing cached shader map for material 3DCard_Nothing, compiling. 
+[2020.12.28-16.03.53:884][329]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 161
+[2020.12.28-16.03.53:884][329]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 151
+[2020.12.28-16.03.53:884][329]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 141
+[2020.12.28-16.03.54:007][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BasicSet_DataTableC08FD1D0402B988372C8DC8D52C44F8A.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BasicSet_DataTable.uasset'
+[2020.12.28-16.03.54:219][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/ShadowBA0D37DA4B815361B0C50996BCAEAA58.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Shadow.uasset'
+[2020.12.28-16.03.55:026][329]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 131
+[2020.12.28-16.03.55:026][329]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 121
+[2020.12.28-16.03.55:026][329]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 111
+[2020.12.28-16.03.55:026][329]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 101
+[2020.12.28-16.03.55:102][329]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 91
+[2020.12.28-16.03.55:138][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardShadow_Mat91240F97486C745531CD458813936D32.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardShadow_Mat.uasset'
+[2020.12.28-16.03.56:551][329]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 81
+[2020.12.28-16.03.56:551][329]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 71
+[2020.12.28-16.03.56:551][329]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 62
+[2020.12.28-16.03.56:551][329]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 54
+[2020.12.28-16.03.56:753][329]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 47
+[2020.12.28-16.03.56:795][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Card_Shadow_Glow_Mat4EFDBA7F40776448AA7F228D1F1A5D9F.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Card_Shadow_Glow_Mat.uasset'
+[2020.12.28-16.03.57:049][329]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 41
+[2020.12.28-16.03.57:146][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardGreenGlow_Mat6AC5112D483E5A18D4FB22946B54C8DE.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardGreenGlow_Mat.uasset'
+[2020.12.28-16.03.57:286][329]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 35
+[2020.12.28-16.03.57:503][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardRedGlow_Mat9847868F47D61C733700379E5A43C4FB.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardRedGlow_Mat.uasset'
+[2020.12.28-16.03.58:384][329]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2020.12.28-16.03.58:384][329]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2020.12.28-16.03.58:384][329]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.12.28-16.03.58:384][329]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2020.12.28-16.03.58:384][329]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2020.12.28-16.03.58:940][329]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2020.12.28-16.03.58:940][329]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2020.12.28-16.03.58:940][329]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2020.12.28-16.03.58:940][329]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.12.28-16.03.58:940][329]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.12.28-16.03.58:940][329]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.12.28-16.03.58:940][329]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.12.28-16.03.58:940][329]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2020.12.28-16.03.59:460][329]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2020.12.28-16.03.59:460][329]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.12.28-16.03.59:549][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardFrame_Mat_ParentB8E59EA142C9F6ECA0C46E80199AA90D.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Mat_Parent.uasset'
+[2020.12.28-16.03.59:800][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardBack_Blue_Mat_InstB68CD6B8486E47E5E576FDBB9BDA298C.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardBack_Blue_Mat_Inst.uasset'
+[2020.12.28-16.04.00:049][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardFrame_Blue_Mat_Inst81708BBF4947323E1F081AA68B17200B.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Blue_Mat_Inst.uasset'
+[2020.12.28-16.04.00:358][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardFrame_Green_Mat_InstE0824609417057BE42E2458E8B9ED68F.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Green_Mat_Inst.uasset'
+[2020.12.28-16.04.00:630][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardFrame_Purple_Mat_InstF9F58252416D47FBFC4EFEA1E75478D8.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Purple_Mat_Inst.uasset'
+[2020.12.28-16.04.00:912][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardFrame_Red_Mat_Inst8BA2EEB446306D4B33BD51BAC0DEED5D.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Red_Mat_Inst.uasset'
+[2020.12.28-16.04.01:185][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardFrame_Yellow_Mat_InstFC6536D44C66D7CB5912D886B5DE7D79.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Yellow_Mat_Inst.uasset'
+[2020.12.28-16.04.01:538][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Card_Mat_Parent15609B444FE5A2359429F5AC7BBF82F8.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Card_Mat_Parent.uasset'
+[2020.12.28-16.04.01:898][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Character_1_Mat_Inst0629932043C7C8D75C8DFE9519ED9439.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_1_Mat_Inst.uasset'
+[2020.12.28-16.04.02:142][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Character_2_Mat_Inst968A02F844C6B2E940551199D510ACE7.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_2_Mat_Inst.uasset'
+[2020.12.28-16.04.02:435][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Character_3_Mat_Inst1D5D0B2A46C6260B6AE1988D04406E90.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_3_Mat_Inst.uasset'
+[2020.12.28-16.04.02:682][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Character_4_Mat_Inst6C70260649B3FEE30603B4B354F950F0.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_4_Mat_Inst.uasset'
+[2020.12.28-16.04.02:944][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardFrame_Blank_Mat_Inst2132BEA645825709799EFC966450704A.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Blank_Mat_Inst.uasset'
+[2020.12.28-16.04.03:262][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/3DCard_Nothing3FEC4E284A01EA5419C745A80CB1A8B7.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/3DCard_Nothing.uasset'
+[2020.12.28-16.04.03:545][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardFrame_Mat_InstD11195B6413CBE5648314F86B3703BA6.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Mat_Inst.uasset'
+[2020.12.28-16.04.03:841][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/SpecialF9FED78643FF41A3E86A05839644506C.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Special.uasset'
+[2020.12.28-16.04.04:083][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardDesign2746EF124C0462B0BB6B5BB9D9BCA4A3.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign.uasset'
+[2020.12.28-16.04.04:381][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardBacking6230DA3F46C7476457989FB988D40D97.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardBacking.uasset'
+[2020.12.28-16.04.04:759][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardDesign_GreenA3D2E21347E03A0A153888A8E660A62D.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign_Green.uasset'
+[2020.12.28-16.04.05:003][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardDesign_PurpleC92A85F3404AF1FDB0F20C829CBB7FEB.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign_Purple.uasset'
+[2020.12.28-16.04.05:226][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardDesign228135A87421A818085764197BA99DF38.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign2.uasset'
+[2020.12.28-16.04.05:470][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardDesign_Yellow64359B2540999C1E777556A24153E680.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign_Yellow.uasset'
+[2020.12.28-16.04.05:715][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Character_10F6612D247DA30C6131CD5B628309549.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_1.uasset'
+[2020.12.28-16.04.05:981][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Character_29CC1FCB34333947A8C1E2B8806ADFDE7.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_2.uasset'
+[2020.12.28-16.04.06:280][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Character_32ECC796A4F44EF5BF7FFCA816F9DE3E0.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_3.uasset'
+[2020.12.28-16.04.06:615][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Character_405B7A1024028F15DD9A218AFA5F715AE.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_4.uasset'
+[2020.12.28-16.04.06:891][329]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardDesign_Blank261628AF4130EB754660178A12969DEB.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign_Blank.uasset'
+[2020.12.28-16.04.12:247][329]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating DataTable /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BasicSet_DataTable.BasicSet_DataTable
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Shadow.Shadow
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating Material /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardShadow_Mat.CardShadow_Mat
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating Material /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Card_Shadow_Glow_Mat.Card_Shadow_Glow_Mat
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardGreenGlow_Mat.CardGreenGlow_Mat
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardRedGlow_Mat.CardRedGlow_Mat
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating Material /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Mat_Parent.CardFrame_Mat_Parent
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardBack_Blue_Mat_Inst.CardBack_Blue_Mat_Inst
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Blue_Mat_Inst.CardFrame_Blue_Mat_Inst
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Green_Mat_Inst.CardFrame_Green_Mat_Inst
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Purple_Mat_Inst.CardFrame_Purple_Mat_Inst
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Red_Mat_Inst.CardFrame_Red_Mat_Inst
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Yellow_Mat_Inst.CardFrame_Yellow_Mat_Inst
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating Material /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Card_Mat_Parent.Card_Mat_Parent
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_1_Mat_Inst.Character_1_Mat_Inst
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_2_Mat_Inst.Character_2_Mat_Inst
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_3_Mat_Inst.Character_3_Mat_Inst
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_4_Mat_Inst.Character_4_Mat_Inst
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Blank_Mat_Inst.CardFrame_Blank_Mat_Inst
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating Material /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/3DCard_Nothing.3DCard_Nothing
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Mat_Inst.CardFrame_Mat_Inst
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Special.Special
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign.CardDesign
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardBacking.CardBacking
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign_Green.CardDesign_Green
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign_Purple.CardDesign_Purple
+[2020.12.28-16.04.12:247][329]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign2.CardDesign2
+[2020.12.28-16.04.12:248][329]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign_Yellow.CardDesign_Yellow
+[2020.12.28-16.04.12:248][329]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_1.Character_1
+[2020.12.28-16.04.12:248][329]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_2.Character_2
+[2020.12.28-16.04.12:248][329]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_3.Character_3
+[2020.12.28-16.04.12:248][329]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_4.Character_4
+[2020.12.28-16.04.12:248][329]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign_Blank.CardDesign_Blank
+[2020.12.28-16.04.15:365][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.12.28-16.04.15:368][433]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CCGToolkit/Maps/MainMenu' took 0.013
+[2020.12.28-16.04.15:369][433]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CCGToolkit/CardGame/CardSets/Basic_Set/BasicSet_DataTable] ([1] browsable assets)...
+[2020.12.28-16.04.15:369][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/CCGToolkit/CardGame/CardSets/Basic_Set/BasicSet_DataTable]
+[2020.12.28-16.04.15:385][433]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BasicSet_DataTable_Auto1A6795E3A47E6DCB2540C8AAA49F4B0D9.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Autosaves/Game/CCGToolkit/CardGame/CardSets/Basic_Set/BasicSet_DataTable_Auto1.uasset'
+[2020.12.28-16.04.15:385][433]LogFileHelpers: Auto-saving content packages took 0.018
+[2020.12.28-16.05.29:015][776]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardShadow_Mat79E5B4304270D3755244C2854C15FFCF.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Effects/CardShadow_Mat.uasset'
+[2020.12.28-16.05.29:244][776]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardGreenGlow_Mat79C09AFA43B2C84336E5B2BFD9FACF3F.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Effects/CardGreenGlow_Mat.uasset'
+[2020.12.28-16.05.29:448][776]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardRedGlow_MatEC216808400820415F9CF19C92479B3A.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Effects/CardRedGlow_Mat.uasset'
+[2020.12.28-16.05.30:124][776]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardShadow_Mat.CardShadow_Mat'
+[2020.12.28-16.05.30:125][776]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardGreenGlow_Mat.CardGreenGlow_Mat'
+[2020.12.28-16.05.30:125][776]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardRedGlow_Mat.CardRedGlow_Mat'
+[2020.12.28-16.05.30:145][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.12.28-16.05.30:158][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.12.28-16.05.30:168][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.12.28-16.05.30:186][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.12.28-16.05.30:197][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.12.28-16.05.30:308][776]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardGreenGlow_Mat.uasset'
+[2020.12.28-16.05.30:308][776]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardRedGlow_Mat.uasset'
+[2020.12.28-16.05.30:308][776]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardShadow_Mat.uasset'
+[2020.12.28-16.05.30:387][776]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.28-16.05.30:387][776]LogContentValidation: Display: Validating Material /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Effects/CardShadow_Mat.CardShadow_Mat
+[2020.12.28-16.05.30:387][776]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Effects/CardGreenGlow_Mat.CardGreenGlow_Mat
+[2020.12.28-16.05.30:387][776]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Effects/CardRedGlow_Mat.CardRedGlow_Mat
+[2020.12.28-16.05.35:246][899]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Shadow736EBD984C6DA5F7901F52A0452C4EE6.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Effects/Shadow.uasset'
+[2020.12.28-16.05.35:625][899]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Shadow.Shadow'
+[2020.12.28-16.05.35:645][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.12.28-16.05.35:661][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.12.28-16.05.35:670][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.12.28-16.05.35:782][899]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Shadow.uasset'
+[2020.12.28-16.05.35:861][899]AssetCheck: New page: Asset Save: Shadow
+[2020.12.28-16.05.35:861][899]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Effects/Shadow.Shadow
+[2020.12.28-16.05.39:500][982]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Card_Shadow_Glow_MatE9D748E44D484E3E9843618E8BEE8DB6.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Effects/Card_Shadow_Glow_Mat.uasset'
+[2020.12.28-16.05.39:914][982]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Card_Shadow_Glow_Mat.Card_Shadow_Glow_Mat'
+[2020.12.28-16.05.39:934][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.12.28-16.05.39:953][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.12.28-16.05.39:963][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.12.28-16.05.40:072][982]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Card_Shadow_Glow_Mat.uasset'
+[2020.12.28-16.05.40:148][982]AssetCheck: New page: Asset Save: Card_Shadow_Glow_Mat
+[2020.12.28-16.05.40:148][982]LogContentValidation: Display: Validating Material /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Effects/Card_Shadow_Glow_Mat.Card_Shadow_Glow_Mat
+[2020.12.28-16.06.21:387][230]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardBacking2C8ABBAF4A174B1652A9E0B794A33076.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/CardBacking.uasset'
+[2020.12.28-16.06.21:705][230]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Character_4D76F4B354A178C70C2BFD8B5113E42C7.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/Character_4.uasset'
+[2020.12.28-16.06.22:036][230]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Character_3FA6FEE46447AD9A652C4A8980986F98C.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/Character_3.uasset'
+[2020.12.28-16.06.22:321][230]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Character_291F1EAB94DF61B88E88BAEA482F19B02.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/Character_2.uasset'
+[2020.12.28-16.06.22:592][230]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Character_1ED34E8D04E5D1AAD85481190D176AF17.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/Character_1.uasset'
+[2020.12.28-16.06.22:873][230]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardDesign5E7EA15949CD210E6026E9BED5F9EA80.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/CardDesign.uasset'
+[2020.12.28-16.06.23:126][230]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardDesign2F09412944439D5BC69D1E2AC01D46277.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/CardDesign2.uasset'
+[2020.12.28-16.06.23:336][230]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardDesign_BlankF283343B41DCEBC27F02A09045DD296C.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/CardDesign_Blank.uasset'
+[2020.12.28-16.06.23:588][230]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardDesign_GreenE870DADB420108B4E539858B57BE92CE.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/CardDesign_Green.uasset'
+[2020.12.28-16.06.23:841][230]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardDesign_Purple15123C8140FE8803EA28BD84709B7221.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/CardDesign_Purple.uasset'
+[2020.12.28-16.06.24:079][230]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardDesign_YellowE10ABF4041AD622BBD043191D1FEC4F8.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/CardDesign_Yellow.uasset'
+[2020.12.28-16.06.25:744][230]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardBacking.CardBacking'
+[2020.12.28-16.06.25:744][230]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_4.Character_4'
+[2020.12.28-16.06.25:744][230]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_3.Character_3'
+[2020.12.28-16.06.25:745][230]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_2.Character_2'
+[2020.12.28-16.06.25:745][230]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_1.Character_1'
+[2020.12.28-16.06.25:745][230]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign.CardDesign'
+[2020.12.28-16.06.25:745][230]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign2.CardDesign2'
+[2020.12.28-16.06.25:746][230]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign_Blank.CardDesign_Blank'
+[2020.12.28-16.06.25:746][230]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign_Green.CardDesign_Green'
+[2020.12.28-16.06.25:746][230]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign_Purple.CardDesign_Purple'
+[2020.12.28-16.06.25:746][230]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign_Yellow.CardDesign_Yellow'
+[2020.12.28-16.06.25:765][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.12.28-16.06.25:781][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.12.28-16.06.25:792][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.12.28-16.06.25:803][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.12.28-16.06.25:814][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.12.28-16.06.25:824][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.12.28-16.06.25:834][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.12.28-16.06.25:845][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.12.28-16.06.25:854][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.12.28-16.06.25:865][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.12.28-16.06.25:876][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.12.28-16.06.25:893][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.12.28-16.06.25:903][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.12.28-16.06.26:024][230]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardBacking.uasset'
+[2020.12.28-16.06.26:024][230]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign.uasset'
+[2020.12.28-16.06.26:024][230]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign2.uasset'
+[2020.12.28-16.06.26:024][230]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign_Blank.uasset'
+[2020.12.28-16.06.26:024][230]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign_Green.uasset'
+[2020.12.28-16.06.26:024][230]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign_Purple.uasset'
+[2020.12.28-16.06.26:024][230]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardDesign_Yellow.uasset'
+[2020.12.28-16.06.26:024][230]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_1.uasset'
+[2020.12.28-16.06.26:024][230]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_2.uasset'
+[2020.12.28-16.06.26:024][230]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_3.uasset'
+[2020.12.28-16.06.26:024][230]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_4.uasset'
+[2020.12.28-16.06.26:126][230]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.28-16.06.26:126][230]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/CardBacking.CardBacking
+[2020.12.28-16.06.26:126][230]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/Character_4.Character_4
+[2020.12.28-16.06.26:126][230]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/Character_3.Character_3
+[2020.12.28-16.06.26:126][230]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/Character_2.Character_2
+[2020.12.28-16.06.26:126][230]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/Character_1.Character_1
+[2020.12.28-16.06.26:126][230]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/CardDesign.CardDesign
+[2020.12.28-16.06.26:126][230]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/CardDesign2.CardDesign2
+[2020.12.28-16.06.26:126][230]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/CardDesign_Blank.CardDesign_Blank
+[2020.12.28-16.06.26:126][230]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/CardDesign_Green.CardDesign_Green
+[2020.12.28-16.06.26:126][230]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/CardDesign_Purple.CardDesign_Purple
+[2020.12.28-16.06.26:126][230]LogContentValidation: Display: Validating Texture2D /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/CardDesign_Yellow.CardDesign_Yellow
+[2020.12.28-16.06.32:940][379]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardBack_Blue_Mat_InstB4745A1F46B458BC7BBEE284076DABA6.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardBack_Blue_Mat_Inst.uasset'
+[2020.12.28-16.06.33:166][379]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardFrame_Blank_Mat_Inst05F53A3B4FF9FE454FE12C9D51604BA2.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Blank_Mat_Inst.uasset'
+[2020.12.28-16.06.33:409][379]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardFrame_Blue_Mat_Inst9688BD0647E9AF24F13DEAAC164DB79C.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Blue_Mat_Inst.uasset'
+[2020.12.28-16.06.33:643][379]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardFrame_Green_Mat_Inst446C45FB423EAD6FC224369004902A86.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Green_Mat_Inst.uasset'
+[2020.12.28-16.06.33:866][379]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardFrame_Mat_Inst5FB741E0449946BA4F2442AC84436B62.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Mat_Inst.uasset'
+[2020.12.28-16.06.34:114][379]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardFrame_Mat_ParentF15FCF364A05ADC6D6AA94AD761D109D.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Mat_Parent.uasset'
+[2020.12.28-16.06.34:312][379]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardFrame_Purple_Mat_Inst81C1A42546E8BA844B9E14B06AC17FCE.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Purple_Mat_Inst.uasset'
+[2020.12.28-16.06.34:572][379]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardFrame_Red_Mat_Inst463D4D77454E3E85A4B69A9B9205D628.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Red_Mat_Inst.uasset'
+[2020.12.28-16.06.34:796][379]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardFrame_Yellow_Mat_Inst2924FF504A4C95D521EF50AA6C63451F.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Yellow_Mat_Inst.uasset'
+[2020.12.28-16.06.35:031][379]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Card_Mat_ParentD08F064341EF375622E9E289CBAB3666.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/Card_Mat_Parent.uasset'
+[2020.12.28-16.06.35:283][379]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Character_1_Mat_Inst891AFD5E4681DC940EE742B677AD4950.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/Character_1_Mat_Inst.uasset'
+[2020.12.28-16.06.35:504][379]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Character_2_Mat_Inst380CD63E41BEE38E7F26EE9B546C8CED.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/Character_2_Mat_Inst.uasset'
+[2020.12.28-16.06.35:779][379]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Character_3_Mat_Inst85FCDC924BD0A85FEB182C81781795BF.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/Character_3_Mat_Inst.uasset'
+[2020.12.28-16.06.35:988][379]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Character_4_Mat_Inst57CC4EF94BA13E1C1D2C87BB78505CCF.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/Character_4_Mat_Inst.uasset'
+[2020.12.28-16.06.36:194][379]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/SpecialA165CC93459F2FE32B66C3B90B763545.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/Special.uasset'
+[2020.12.28-16.06.36:401][379]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/3DCard_Nothing772191A44CAF5205350E84A2B2FAD1E6.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/3DCard_Nothing.uasset'
+[2020.12.28-16.06.38:573][379]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardBack_Blue_Mat_Inst.CardBack_Blue_Mat_Inst'
+[2020.12.28-16.06.38:574][379]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Blank_Mat_Inst.CardFrame_Blank_Mat_Inst'
+[2020.12.28-16.06.38:574][379]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Blue_Mat_Inst.CardFrame_Blue_Mat_Inst'
+[2020.12.28-16.06.38:574][379]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Green_Mat_Inst.CardFrame_Green_Mat_Inst'
+[2020.12.28-16.06.38:575][379]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Mat_Inst.CardFrame_Mat_Inst'
+[2020.12.28-16.06.38:575][379]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Mat_Parent.CardFrame_Mat_Parent'
+[2020.12.28-16.06.38:575][379]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Purple_Mat_Inst.CardFrame_Purple_Mat_Inst'
+[2020.12.28-16.06.38:576][379]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Red_Mat_Inst.CardFrame_Red_Mat_Inst'
+[2020.12.28-16.06.38:576][379]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Yellow_Mat_Inst.CardFrame_Yellow_Mat_Inst'
+[2020.12.28-16.06.38:576][379]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Card_Mat_Parent.Card_Mat_Parent'
+[2020.12.28-16.06.38:577][379]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_1_Mat_Inst.Character_1_Mat_Inst'
+[2020.12.28-16.06.38:577][379]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_2_Mat_Inst.Character_2_Mat_Inst'
+[2020.12.28-16.06.38:578][379]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_3_Mat_Inst.Character_3_Mat_Inst'
+[2020.12.28-16.06.38:578][379]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_4_Mat_Inst.Character_4_Mat_Inst'
+[2020.12.28-16.06.38:578][379]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Special.Special'
+[2020.12.28-16.06.38:579][379]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/3DCard_Nothing.3DCard_Nothing'
+[2020.12.28-16.06.38:598][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.12.28-16.06.38:609][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.12.28-16.06.38:619][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.12.28-16.06.38:630][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.12.28-16.06.38:640][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.12.28-16.06.38:651][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.12.28-16.06.38:661][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.12.28-16.06.38:672][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.12.28-16.06.38:682][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.12.28-16.06.38:693][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.12.28-16.06.38:703][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.12.28-16.06.38:713][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.12.28-16.06.38:723][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.12.28-16.06.38:734][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.12.28-16.06.38:744][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.12.28-16.06.38:754][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.12.28-16.06.38:769][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.12.28-16.06.38:780][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.12.28-16.06.38:903][379]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/3DCard_Nothing.uasset'
+[2020.12.28-16.06.38:903][379]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardBack_Blue_Mat_Inst.uasset'
+[2020.12.28-16.06.38:903][379]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Blank_Mat_Inst.uasset'
+[2020.12.28-16.06.38:903][379]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Blue_Mat_Inst.uasset'
+[2020.12.28-16.06.38:903][379]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Green_Mat_Inst.uasset'
+[2020.12.28-16.06.38:903][379]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Mat_Inst.uasset'
+[2020.12.28-16.06.38:903][379]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Mat_Parent.uasset'
+[2020.12.28-16.06.38:903][379]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Purple_Mat_Inst.uasset'
+[2020.12.28-16.06.38:903][379]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Red_Mat_Inst.uasset'
+[2020.12.28-16.06.38:903][379]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/CardFrame_Yellow_Mat_Inst.uasset'
+[2020.12.28-16.06.38:903][379]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Card_Mat_Parent.uasset'
+[2020.12.28-16.06.38:903][379]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_1_Mat_Inst.uasset'
+[2020.12.28-16.06.38:903][379]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_2_Mat_Inst.uasset'
+[2020.12.28-16.06.38:903][379]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_3_Mat_Inst.uasset'
+[2020.12.28-16.06.38:903][379]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Character_4_Mat_Inst.uasset'
+[2020.12.28-16.06.38:903][379]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Special.uasset'
+[2020.12.28-16.06.39:005][379]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.28-16.06.39:005][379]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardBack_Blue_Mat_Inst.CardBack_Blue_Mat_Inst
+[2020.12.28-16.06.39:005][379]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Blank_Mat_Inst.CardFrame_Blank_Mat_Inst
+[2020.12.28-16.06.39:005][379]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Blue_Mat_Inst.CardFrame_Blue_Mat_Inst
+[2020.12.28-16.06.39:005][379]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Green_Mat_Inst.CardFrame_Green_Mat_Inst
+[2020.12.28-16.06.39:005][379]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Mat_Inst.CardFrame_Mat_Inst
+[2020.12.28-16.06.39:005][379]LogContentValidation: Display: Validating Material /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Mat_Parent.CardFrame_Mat_Parent
+[2020.12.28-16.06.39:005][379]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Purple_Mat_Inst.CardFrame_Purple_Mat_Inst
+[2020.12.28-16.06.39:005][379]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Red_Mat_Inst.CardFrame_Red_Mat_Inst
+[2020.12.28-16.06.39:005][379]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Yellow_Mat_Inst.CardFrame_Yellow_Mat_Inst
+[2020.12.28-16.06.39:005][379]LogContentValidation: Display: Validating Material /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/Card_Mat_Parent.Card_Mat_Parent
+[2020.12.28-16.06.39:005][379]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/Character_1_Mat_Inst.Character_1_Mat_Inst
+[2020.12.28-16.06.39:005][379]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/Character_2_Mat_Inst.Character_2_Mat_Inst
+[2020.12.28-16.06.39:005][379]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/Character_3_Mat_Inst.Character_3_Mat_Inst
+[2020.12.28-16.06.39:005][379]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/Character_4_Mat_Inst.Character_4_Mat_Inst
+[2020.12.28-16.06.39:005][379]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/Special.Special
+[2020.12.28-16.06.39:006][379]LogContentValidation: Display: Validating Material /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/3DCard_Nothing.3DCard_Nothing
+[2020.12.28-16.07.05:183][217]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGroundSet_DataTableFA1274744469F2F74AF8B7B9CBF27072.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGroundSet_DataTable.uasset'
+[2020.12.28-16.07.05:540][217]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BasicSet_DataTable.BasicSet_DataTable'
+[2020.12.28-16.07.05:561][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.12.28-16.07.05:579][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.12.28-16.07.05:588][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.12.28-16.07.05:708][217]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BasicSet_DataTable.uasset'
+[2020.12.28-16.07.05:781][217]AssetCheck: New page: Asset Save: BattleGroundSet_DataTable
+[2020.12.28-16.07.05:781][217]LogContentValidation: Display: Validating DataTable /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGroundSet_DataTable.BattleGroundSet_DataTable
+[2020.12.28-16.07.23:623][775]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGroundsSet_DataTableA03D141E4F9101E7AA9172BACF98F3B5.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGroundsSet_DataTable.uasset'
+[2020.12.28-16.07.24:027][775]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGroundSet_DataTable.BattleGroundSet_DataTable'
+[2020.12.28-16.07.24:048][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.12.28-16.07.24:065][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.12.28-16.07.24:074][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.12.28-16.07.24:184][775]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGroundSet_DataTable.uasset'
+[2020.12.28-16.07.24:258][775]AssetCheck: New page: Asset Save: BattleGroundsSet_DataTable
+[2020.12.28-16.07.24:258][775]LogContentValidation: Display: Validating DataTable /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGroundsSet_DataTable.BattleGroundsSet_DataTable
+[2020.12.28-16.07.27:048][867]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGroundsSet_DataTable.BattleGroundsSet_DataTable
+[2020.12.28-16.11.13:722][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.12.28-16.11.15:081][364]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.28-16.11.15:350][364]LogSlate: Window 'BattleGroundsSet_DataTable' being destroyed
+[2020.12.28-16.11.15:367][364]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGroundsSet_DataTable.BattleGroundsSet_DataTable
+[2020.12.28-16.11.15:998][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.12.28-16.11.16:011][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.12.28-16.11.16:020][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.12.28-16.11.16:142][364]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGroundsSet_DataTable.uasset'
+[2020.12.28-16.16.51:291][893]LogSlate: Window 'Pick Row Structure' being destroyed
+[2020.12.28-16.17.22:251][337]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set.BattleGrounds_Set
+[2020.12.28-16.18.31:312][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.12.28-16.18.31:314][581]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CCGToolkit/Maps/MainMenu' took 0.014
+[2020.12.28-16.18.31:315][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set] ([1] browsable assets)...
+[2020.12.28-16.18.31:315][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set]
+[2020.12.28-16.18.31:320][581]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_Set_Auto2270FD58147603DFBB916BDB40B4FA21D.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Autosaves/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set_Auto2.uasset'
+[2020.12.28-16.18.31:321][581]LogFileHelpers: Auto-saving content packages took 0.006
+[2020.12.28-16.20.19:145][114]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_Set747C95624CA7BA2C341982997FA1A960.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set.uasset'
+[2020.12.28-16.20.19:909][114]AssetCheck: New page: Asset Save: BattleGrounds_Set
+[2020.12.28-16.20.19:909][114]LogContentValidation: Display: Validating DataTable /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set.BattleGrounds_Set
+[2020.12.28-16.21.07:607][950]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/CCGToolkit/Blueprints/Enums/Gameplay_Enums/CardClass_Enum.CardClass_Enum
+[2020.12.28-16.23.57:822][877]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardClass_EnumBDF6465A45DF6AB7C9A66DA626CD764E.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/Blueprints/Enums/Gameplay_Enums/CardClass_Enum.uasset'
+[2020.12.28-16.23.58:432][877]AssetCheck: New page: Asset Save: CardClass_Enum
+[2020.12.28-16.23.58:432][877]LogContentValidation: Display: Validating UserDefinedEnum /Game/CCGToolkit/Blueprints/Enums/Gameplay_Enums/CardClass_Enum.CardClass_Enum
+[2020.12.28-16.24.00:494][950]LogSlate: Window 'CardClass_Enum' being destroyed
+[2020.12.28-16.24.00:531][950]LogSlate: Window 'CardClass_Enum' being destroyed
+[2020.12.28-16.24.29:280][777]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/CCGToolkit/CardGame/DEVELOPER_PrebuildDecks/PreBuildDecks_DataTable.PreBuildDecks_DataTable
+[2020.12.28-16.24.34:360][947]LogSlate: Window 'PreBuildDecks_DataTable' being destroyed
+[2020.12.28-16.24.34:400][947]LogSlate: Window 'PreBuildDecks_DataTable' being destroyed
+[2020.12.28-16.24.40:255][186]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set.BattleGrounds_Set
+[2020.12.28-16.25.32:813][603]LogSlate: Window 'Message' being destroyed
+[2020.12.28-16.25.32:818][603]Message dialog closed, result: Ok, title: Message, text: 'Alley Cat' is not a valid row name
+[2020.12.28-16.25.53:214][275]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/CCGToolkit/CardGame/CardSets/Basic_Set/BasicSet_DataTable.BasicSet_DataTable
+[2020.12.28-16.26.18:229][  0]LogSlate: Window 'BasicSet_DataTable' being destroyed
+[2020.12.28-16.26.18:268][  0]LogSlate: Window 'BasicSet_DataTable' being destroyed
+[2020.12.28-16.26.42:939][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.12.28-16.26.44:059][832]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.28-16.26.44:199][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.12.28-16.26.44:215][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.12.28-16.26.44:225][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.12.28-16.26.44:348][832]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set.uasset'
+[2020.12.28-16.26.45:887][900]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BasicSet_DataTableFEADB6924BECC7119750E8B1F6C5BD0B.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BasicSet_DataTable.uasset'
+[2020.12.28-16.26.46:329][900]AssetCheck: New page: Asset Save: BasicSet_DataTable
+[2020.12.28-16.26.46:329][900]LogContentValidation: Display: Validating DataTable /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BasicSet_DataTable.BasicSet_DataTable
+[2020.12.28-16.26.56:687][292]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_SetBAB4034B420E6815B0A65E8C85AA6C40.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set.uasset'
+[2020.12.28-16.26.57:094][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.12.28-16.26.57:112][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.12.28-16.26.57:122][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.12.28-16.26.57:243][292]SourceControl: rm 'Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BasicSet_DataTable.uasset'
+[2020.12.28-16.26.57:316][292]AssetCheck: New page: Asset Save: BattleGrounds_Set
+[2020.12.28-16.26.57:316][292]LogContentValidation: Display: Validating DataTable /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set.BattleGrounds_Set
+[2020.12.28-16.27.01:324][422]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set.BattleGrounds_Set
+[2020.12.28-16.28.17:056][535]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_SetACE1BE884AFCE488FAB664AE5A70B578.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set.uasset'
+[2020.12.28-16.28.17:068][535]AssetCheck: New page: Asset Save: BattleGrounds_Set
+[2020.12.28-16.28.17:068][535]LogContentValidation: Display: Validating DataTable /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set.BattleGrounds_Set
+[2020.12.28-16.28.45:121][375]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/CCGToolkit/Blueprints/Enums/Gameplay_Enums/CardRarity_Enum.CardRarity_Enum
+[2020.12.28-16.29.07:319][ 88]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardRarity_Enum7241EE424D5F0FDD4D5BAC8D90B4BB0C.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/Blueprints/Enums/Gameplay_Enums/CardRarity_Enum.uasset'
+[2020.12.28-16.29.07:336][ 88]AssetCheck: New page: Asset Save: CardRarity_Enum
+[2020.12.28-16.29.07:336][ 88]LogContentValidation: Display: Validating UserDefinedEnum /Game/CCGToolkit/Blueprints/Enums/Gameplay_Enums/CardRarity_Enum.CardRarity_Enum
+[2020.12.28-16.31.55:253][756]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_SetCCEBA21D41E8D0721422A7B6A8FE4317.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set.uasset'
+[2020.12.28-16.31.55:264][756]AssetCheck: New page: Asset Save: BattleGrounds_Set
+[2020.12.28-16.31.55:264][756]LogContentValidation: Display: Validating DataTable /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set.BattleGrounds_Set
+[2020.12.28-16.33.07:488][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.12.28-16.33.07:490][299]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CCGToolkit/Maps/MainMenu' took 0.013
+[2020.12.28-16.33.07:491][299]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CCGToolkit/Blueprints/FunctionLibraries/ArrayFilters_FunctionLibrary] ([1] browsable assets)...
+[2020.12.28-16.33.07:491][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/CCGToolkit/Blueprints/FunctionLibraries/ArrayFilters_FunctionLibrary]
+[2020.12.28-16.33.08:261][299]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/ArrayFilters_FunctionLibrary_Aut56CCD50146ED8705AF0203AA9295F17F.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Autosaves/Game/CCGToolkit/Blueprints/FunctionLibraries/ArrayFilters_FunctionLibrary_Auto3.uasset'
+[2020.12.28-16.33.08:262][299]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CCGToolkit/Blueprints/Widgets/Additional/DeckStats] ([1] browsable assets)...
+[2020.12.28-16.33.08:262][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/CCGToolkit/Blueprints/Widgets/Additional/DeckStats]
+[2020.12.28-16.33.08:292][299]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/DeckStats_Auto3FE389C81466506DCFBA81FA76007CB9C.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Autosaves/Game/CCGToolkit/Blueprints/Widgets/Additional/DeckStats_Auto3.uasset'
+[2020.12.28-16.33.08:292][299]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set] ([1] browsable assets)...
+[2020.12.28-16.33.08:293][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set]
+[2020.12.28-16.33.08:325][299]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_Set_Auto3AB6133EE4F51657B852B2E8F4F7350BB.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Autosaves/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set_Auto3.uasset'
+[2020.12.28-16.33.08:326][299]LogFileHelpers: Auto-saving content packages took 0.835
+[2020.12.28-16.45.38:697][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.12.28-16.45.38:701][691]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CCGToolkit/Maps/MainMenu' took 0.013
+[2020.12.28-16.45.38:701][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set] ([1] browsable assets)...
+[2020.12.28-16.45.38:701][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set]
+[2020.12.28-16.45.38:712][691]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_Set_Auto4521E1940431982786619CE81378BF6A5.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Autosaves/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set_Auto4.uasset'
+[2020.12.28-16.45.39:264][691]LogFileHelpers: Auto-saving content packages took 0.563
+[2020.12.28-16.55.39:736][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.12.28-16.55.39:739][991]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CCGToolkit/Maps/MainMenu' took 0.013
+[2020.12.28-16.55.39:739][991]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set] ([1] browsable assets)...
+[2020.12.28-16.55.39:739][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set]
+[2020.12.28-16.55.40:337][991]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_Set_Auto5676A52F240FC7B1E281077B226370D3D.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Autosaves/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set_Auto5.uasset'
+[2020.12.28-16.55.40:337][991]LogFileHelpers: Auto-saving content packages took 0.598
+[2020.12.28-16.59.44:608][316]LogSlate: Window 'Message' being destroyed
+[2020.12.28-16.59.44:614][316]Message dialog closed, result: Ok, title: Message, text: 'Rockpool Hunter' is not a valid row name
+[2020.12.28-17.05.40:255][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.12.28-17.05.40:258][534]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CCGToolkit/Maps/MainMenu' took 0.014
+[2020.12.28-17.05.40:259][534]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set] ([1] browsable assets)...
+[2020.12.28-17.05.40:259][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set]
+[2020.12.28-17.05.40:279][534]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_Set_Auto6D9E9205A4FFA760759950CACEE44114B.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Autosaves/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set_Auto6.uasset'
+[2020.12.28-17.05.40:280][534]LogFileHelpers: Auto-saving content packages took 0.021
+[2020.12.28-17.11.42:908][308]Cmd: TRANSACTION UNDO
+[2020.12.28-17.11.42:908][308]LogEditorTransaction: Undo Add Data Table Row
+[2020.12.28-17.13.48:764][799]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_SetED434BD74A8916AE351BC482403881F8.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set.uasset'
+[2020.12.28-17.13.48:798][799]AssetCheck: New page: Asset Save: BattleGrounds_Set
+[2020.12.28-17.13.48:798][799]LogContentValidation: Display: Validating DataTable /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set.BattleGrounds_Set
+[2020.12.28-17.16.39:042][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.12.28-17.16.39:044][166]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CCGToolkit/Maps/MainMenu' took 0.013
+[2020.12.28-17.16.39:045][166]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set] ([1] browsable assets)...
+[2020.12.28-17.16.39:045][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set]
+[2020.12.28-17.16.39:056][166]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_Set_Auto7A68ADD5A4F08E974F86F9BAB35F54241.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Autosaves/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set_Auto7.uasset'
+[2020.12.28-17.16.39:057][166]LogFileHelpers: Auto-saving content packages took 0.012
+[2020.12.28-17.26.39:489][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.12.28-17.26.39:492][406]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CCGToolkit/Maps/MainMenu' took 0.012
+[2020.12.28-17.26.39:492][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set] ([1] browsable assets)...
+[2020.12.28-17.26.39:492][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set]
+[2020.12.28-17.26.39:508][406]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_Set_Auto89475561047D77C4E20A80D9958821CB8.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Autosaves/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set_Auto8.uasset'
+[2020.12.28-17.26.39:509][406]LogFileHelpers: Auto-saving content packages took 0.017
+[2020.12.28-17.37.56:408][175]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SInlineEditableTextBlock [SDataTableListViewRow.cpp(268)].
+[2020.12.28-17.37.56:460][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.12.28-17.37.56:462][175]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CCGToolkit/Maps/MainMenu' took 0.012
+[2020.12.28-17.37.56:462][175]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set] ([1] browsable assets)...
+[2020.12.28-17.37.56:462][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set]
+[2020.12.28-17.37.57:054][175]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_Set_Auto90854A8B84DC3367A2337F79ADC5EBB64.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Autosaves/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set_Auto9.uasset'
+[2020.12.28-17.37.57:054][175]LogFileHelpers: Auto-saving content packages took 0.593
+[2020.12.28-17.39.56:123][145]LogSlate: Window 'Message' being destroyed
+[2020.12.28-17.39.56:130][145]Message dialog closed, result: Ok, title: Message, text: 'Mounted Raptor' is not a valid row name
+[2020.12.28-17.45.32:542][367]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/CCGToolkit/Blueprints/Enums/Gameplay_Enums/CardClass_Enum.CardClass_Enum
+[2020.12.28-17.45.46:533][  6]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/CardClass_Enum7E30BA0A48275CDF3E64018DD7A2A615.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/Blueprints/Enums/Gameplay_Enums/CardClass_Enum.uasset'
+[2020.12.28-17.45.46:543][  6]AssetCheck: New page: Asset Save: CardClass_Enum
+[2020.12.28-17.45.46:543][  6]LogContentValidation: Display: Validating UserDefinedEnum /Game/CCGToolkit/Blueprints/Enums/Gameplay_Enums/CardClass_Enum.CardClass_Enum
+[2020.12.28-17.56.18:547][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.12.28-17.56.18:550][573]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CCGToolkit/Maps/MainMenu' took 0.013
+[2020.12.28-17.56.18:550][573]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CCGToolkit/Blueprints/FunctionLibraries/ArrayFilters_FunctionLibrary] ([1] browsable assets)...
+[2020.12.28-17.56.18:550][573]OBJ SavePackage: Finished generating thumbnails for package [/Game/CCGToolkit/Blueprints/FunctionLibraries/ArrayFilters_FunctionLibrary]
+[2020.12.28-17.56.19:228][573]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/ArrayFilters_FunctionLibrary_Aut318EFC8142E907AC5FD585B6413ECCA5.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Autosaves/Game/CCGToolkit/Blueprints/FunctionLibraries/ArrayFilters_FunctionLibrary_Auto0.uasset'
+[2020.12.28-17.56.19:229][573]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set] ([1] browsable assets)...
+[2020.12.28-17.56.19:229][573]OBJ SavePackage: Finished generating thumbnails for package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set]
+[2020.12.28-17.56.19:253][573]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_Set_Auto01B7F25A84CD3C30BF1A0BDBB00412EF8.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Autosaves/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set_Auto0.uasset'
+[2020.12.28-17.56.19:253][573]LogFileHelpers: Auto-saving content packages took 0.703
+[2020.12.28-17.57.50:240][989]LogSlate: Window 'Message' being destroyed
+[2020.12.28-17.57.50:244][989]Message dialog closed, result: Ok, title: Message, text: 'Crowd Favourite' is not a valid row name
+[2020.12.28-18.05.36:463][415]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_Set3850A69C4CD2CC72A6E06E92B1A66F24.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set.uasset'
+[2020.12.28-18.05.36:482][415]AssetCheck: New page: Asset Save: BattleGrounds_Set
+[2020.12.28-18.05.36:482][415]LogContentValidation: Display: Validating DataTable /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set.BattleGrounds_Set
+[2020.12.28-18.07.43:512][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.12.28-18.07.43:514][386]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CCGToolkit/Maps/MainMenu' took 0.013
+[2020.12.28-18.07.43:515][386]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set] ([1] browsable assets)...
+[2020.12.28-18.07.43:515][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set]
+[2020.12.28-18.07.43:527][386]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_Set_Auto146B26CF64621DB60B308F6B422EBDAE3.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Autosaves/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set_Auto1.uasset'
+[2020.12.28-18.07.43:529][386]LogFileHelpers: Auto-saving content packages took 0.014
+[2020.12.28-18.11.35:572][563]ImportText (/Game/CCGToolkit/CardGame/Structs/CardStructs/Card_Struct.Card_Struct): Missing opening parenthesis: 
+[2020.12.28-18.11.37:525][756]ImportText (/Game/CCGToolkit/CardGame/Structs/CardStructs/Card_Struct.Card_Struct): Missing opening parenthesis: 
+[2020.12.28-18.19.23:580][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.12.28-18.19.23:582][793]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CCGToolkit/Maps/MainMenu' took 0.013
+[2020.12.28-18.19.23:583][793]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set] ([1] browsable assets)...
+[2020.12.28-18.19.23:583][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set]
+[2020.12.28-18.19.23:601][793]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_Set_Auto2E0C0BA754083519D19EC5CA8FD9B9E75.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Autosaves/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set_Auto2.uasset'
+[2020.12.28-18.19.23:602][793]LogFileHelpers: Auto-saving content packages took 0.020
+[2020.12.28-18.29.14:311][949]LogSlate: Window 'Message' being destroyed
+[2020.12.28-18.29.14:317][949]Message dialog closed, result: Ok, title: Message, text: 'Shifter Zerus' is not a valid row name
+[2020.12.28-18.30.03:394][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.12.28-18.30.03:395][694]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CCGToolkit/Maps/MainMenu' took 0.013
+[2020.12.28-18.30.03:396][694]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set] ([1] browsable assets)...
+[2020.12.28-18.30.03:396][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set]
+[2020.12.28-18.30.03:414][694]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_Set_Auto316B07E3649091473A4FDEBBC62222279.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Autosaves/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set_Auto3.uasset'
+[2020.12.28-18.30.03:414][694]LogFileHelpers: Auto-saving content packages took 0.019
+[2020.12.28-18.42.12:818][767]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SListView<FDataTableEditorRowListViewDataPtr> [DataTableEditor.cpp(1243)].
+[2020.12.28-18.42.12:872][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.12.28-18.42.12:875][767]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CCGToolkit/Maps/MainMenu' took 0.012
+[2020.12.28-18.42.12:875][767]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set] ([1] browsable assets)...
+[2020.12.28-18.42.12:875][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set]
+[2020.12.28-18.42.12:893][767]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_Set_Auto429F28FD0439968E18115289B00B98E88.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Autosaves/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set_Auto4.uasset'
+[2020.12.28-18.42.12:893][767]LogFileHelpers: Auto-saving content packages took 0.019
+[2020.12.28-18.48.24:897][807]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_Set4FC9452D422B23E742D80EA059D0AEB3.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set.uasset'
+[2020.12.28-18.48.24:926][807]AssetCheck: New page: Asset Save: BattleGrounds_Set
+[2020.12.28-18.48.24:926][807]LogContentValidation: Display: Validating DataTable /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set.BattleGrounds_Set
+[2020.12.28-18.48.32:763][284]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/ArrayFilters_FunctionLibraryAEEB89854286CDD8551B72B77B4FDC9A.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/Blueprints/FunctionLibraries/ArrayFilters_FunctionLibrary.uasset'
+[2020.12.28-18.48.32:800][284]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BasicSet_DataTable8A78BBDE40B929C6BACDD8BA8F041BF5.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/Basic_Set/BasicSet_DataTable.uasset'
+[2020.12.28-18.48.32:839][284]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/DeckStatsCA38DCD04B5908DB186A9CB9D480847A.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/Blueprints/Widgets/Additional/DeckStats.uasset'
+[2020.12.28-18.48.32:862][284]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.28-18.48.32:862][284]LogContentValidation: Display: Validating Blueprint /Game/CCGToolkit/Blueprints/FunctionLibraries/ArrayFilters_FunctionLibrary.ArrayFilters_FunctionLibrary
+[2020.12.28-18.48.32:862][284]LogContentValidation: Display: Validating DataTable /Game/CCGToolkit/CardGame/CardSets/Basic_Set/BasicSet_DataTable.BasicSet_DataTable
+[2020.12.28-18.48.32:862][284]LogContentValidation: Display: Validating WidgetBlueprint /Game/CCGToolkit/Blueprints/Widgets/Additional/DeckStats.DeckStats
+[2020.12.28-18.51.18:055][135]LogSlate: Window 'Message' being destroyed
+[2020.12.28-18.51.18:061][135]Message dialog closed, result: Ok, title: Message, text: 'Annihilian Battlemaster' is not a valid row name
+[2020.12.28-18.52.13:170][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.12.28-18.52.13:172][171]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CCGToolkit/Maps/MainMenu' took 0.013
+[2020.12.28-18.52.13:173][171]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set] ([1] browsable assets)...
+[2020.12.28-18.52.13:173][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set]
+[2020.12.28-18.52.13:186][171]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_Set_Auto579AA2F2247250FDF1EFA91B793E63270.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Autosaves/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set_Auto5.uasset'
+[2020.12.28-18.52.13:187][171]LogFileHelpers: Auto-saving content packages took 0.014
+[2020.12.28-19.03.20:189][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.12.28-19.03.20:192][948]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CCGToolkit/Maps/MainMenu' took 0.011
+[2020.12.28-19.03.20:192][948]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set] ([1] browsable assets)...
+[2020.12.28-19.03.20:192][948]OBJ SavePackage: Finished generating thumbnails for package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set]
+[2020.12.28-19.03.20:223][948]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_Set_Auto69155571A46EC36B48FE590A8E9FAAD48.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Autosaves/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set_Auto6.uasset'
+[2020.12.28-19.03.20:224][948]LogFileHelpers: Auto-saving content packages took 0.032
+[2020.12.28-19.14.49:320][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.12.28-19.14.49:321][996]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CCGToolkit/Maps/MainMenu' took 0.013
+[2020.12.28-19.14.49:321][996]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set] ([1] browsable assets)...
+[2020.12.28-19.14.49:321][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set]
+[2020.12.28-19.14.49:345][996]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_Set_Auto7958EB1E74B2B90FAB4956E829B162547.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/Autosaves/Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set_Auto7.uasset'
+[2020.12.28-19.14.49:346][996]LogFileHelpers: Auto-saving content packages took 0.025
+[2020.12.28-19.16.02:993][ 29]LogSavePackage: Moving 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Saved/BattleGrounds_Set36100AC44BDB4B48C0268FB48F95F11C.tmp' to 'D:/Unreal Projects/SiegeTactics/SiegeTactics/Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set.uasset'
+[2020.12.28-19.16.03:006][ 29]AssetCheck: New page: Asset Save: BattleGrounds_Set
+[2020.12.28-19.16.03:006][ 29]LogContentValidation: Display: Validating DataTable /Game/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set.BattleGrounds_Set
+[2020.12.28-19.16.06:619][242]LogSlate: Window 'CardClass_Enum' being destroyed
+[2020.12.28-19.16.06:641][242]LogSlate: Window 'CardClass_Enum' being destroyed
+[2020.12.28-19.16.12:518][748]SourceControl: fatal: E:/EpicGames/UE_4.25/Engine/Content: 'E:/EpicGames/UE_4.25/Engine/Content' is outside repository
+[2020.12.28-19.16.12:518][748]SourceControl: fatal: E:/EpicGames/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'E:/EpicGames/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository
+[2020.12.28-19.16.12:518][748]SourceControl: fatal: E:/EpicGames/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/EpicGames/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository
+[2020.12.28-19.16.12:518][748]SourceControl: fatal: E:/EpicGames/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'E:/EpicGames/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository
+[2020.12.28-19.16.12:518][748]SourceControl: fatal: E:/EpicGames/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/EpicGames/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository
+[2020.12.28-19.16.12:518][748]SourceControl: fatal: E:/EpicGames/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/EpicGames/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository
+[2020.12.28-19.16.12:518][748]SourceControl: fatal: E:/EpicGames/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/EpicGames/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository
+[2020.12.28-19.16.12:518][748]SourceControl: fatal: E:/EpicGames/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/EpicGames/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository
+[2020.12.28-19.16.12:518][748]SourceControl: fatal: E:/EpicGames/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/EpicGames/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository
+[2020.12.28-19.16.12:518][748]SourceControl: fatal: E:/EpicGames/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'E:/EpicGames/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository
+[2020.12.28-19.16.12:518][748]SourceControl: fatal: E:/EpicGames/UE_4.25/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'E:/EpicGames/UE_4.25/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository
+[2020.12.28-19.16.12:518][748]SourceControl: fatal: E:/EpicGames/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'E:/EpicGames/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository
+[2020.12.28-19.16.12:518][748]SourceControl: fatal: E:/EpicGames/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'E:/EpicGames/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository
+[2020.12.28-19.16.12:518][748]SourceControl: fatal: E:/EpicGames/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'E:/EpicGames/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository
+[2020.12.28-19.16.12:518][748]SourceControl: fatal: E:/EpicGames/UE_4.25/Engine/Plugins/Marketplace/Substance/Content: 'E:/EpicGames/UE_4.25/Engine/Plugins/Marketplace/Substance/Content' is outside repository
+[2020.12.28-19.16.12:518][748]SourceControl: fatal: E:/EpicGames/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'E:/EpicGames/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository
+[2020.12.28-19.16.12:518][748]SourceControl: fatal: E:/EpicGames/UE_4.25/Engine/Plugins/MegascansPlugin/Content: 'E:/EpicGames/UE_4.25/Engine/Plugins/MegascansPlugin/Content' is outside repository
+[2020.12.28-19.16.12:518][748]SourceControl: fatal: E:/EpicGames/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'E:/EpicGames/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository
+[2020.12.28-19.16.12:518][748]SourceControl: fatal: E:/EpicGames/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'E:/EpicGames/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository
+[2020.12.28-19.16.12:518][748]SourceControl: fatal: E:/EpicGames/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'E:/EpicGames/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository
+[2020.12.28-19.16.12:518][748]SourceControl: fatal: E:/EpicGames/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'E:/EpicGames/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository
+[2020.12.28-19.16.28:874][748]LogSlate: Window 'Submit Files' being destroyed
+[2020.12.28-19.16.30:953][748]LogSourceControl: commit successful: [master 7315625] Bunch of changes creating BattleGrounds Deck
+[2020.12.28-19.16.31:339][748]SourceControl: [master 7315625] Bunch of changes creating BattleGrounds Deck
+[2020.12.28-19.16.31:339][748]SourceControl:  38 files changed, 0 insertions(+), 0 deletions(-)
+[2020.12.28-19.16.31:339][748]SourceControl:  rewrite Content/CCGToolkit/Blueprints/Enums/Gameplay_Enums/CardClass_Enum.uasset (100%)
+[2020.12.28-19.16.31:339][748]SourceControl:  rewrite Content/CCGToolkit/Blueprints/Enums/Gameplay_Enums/CardRarity_Enum.uasset (73%)
+[2020.12.28-19.16.31:339][748]SourceControl:  rewrite Content/CCGToolkit/Blueprints/FunctionLibraries/ArrayFilters_FunctionLibrary.uasset (71%)
+[2020.12.28-19.16.31:339][748]SourceControl:  rewrite Content/CCGToolkit/Blueprints/Widgets/Additional/DeckStats.uasset (72%)
+[2020.12.28-19.16.31:339][748]SourceControl:  rewrite Content/CCGToolkit/CardGame/CardSets/Basic_Set/BasicSet_DataTable.uasset (74%)
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/BattleGrounds_Set.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Effects/CardGreenGlow_Mat.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Effects/CardRedGlow_Mat.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Effects/CardShadow_Mat.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Effects/Card_Shadow_Glow_Mat.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Effects/Shadow.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/3DCard_Nothing.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardBack_Blue_Mat_Inst.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Blank_Mat_Inst.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Blue_Mat_Inst.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Green_Mat_Inst.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Mat_Inst.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Mat_Parent.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Purple_Mat_Inst.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Red_Mat_Inst.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/CardFrame_Yellow_Mat_Inst.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/Card_Mat_Parent.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/Character_1_Mat_Inst.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/Character_2_Mat_Inst.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/Character_3_Mat_Inst.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/Character_4_Mat_Inst.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Materials/Special.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/CardBacking.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/CardDesign.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/CardDesign2.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/CardDesign_Blank.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/CardDesign_Green.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/CardDesign_Purple.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/CardDesign_Yellow.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/Character_1.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/Character_2.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/Character_3.uasset
+[2020.12.28-19.16.31:339][748]SourceControl:  create mode 100644 Content/CCGToolkit/CardGame/CardSets/BattleGrounds_Set/Textures/Character_4.uasset
+[2020.12.28-19.16.31:346][748]SourceControl: Commited [master 7315625] Bunch of changes creating BattleGrounds Deck.
+[2020.12.28-19.16.35:345][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.12.28-19.16.35:411][ 32]LogSlate: Window '' being destroyed
+[2020.12.28-19.16.35:415][ 32]LogSlate: Window '' being destroyed
+[2020.12.28-19.16.35:417][ 32]LogSlate: Window 'SiegeTactics - Unreal Editor' being destroyed
+[2020.12.28-19.16.35:417][ 32]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.28-19.16.35:505][ 33]Cmd: QUIT_EDITOR
+[2020.12.28-19.16.35:505][ 33]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.12.28-19.16.35:511][ 33]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.12.28-19.16.35:542][ 33]LogExit: Preparing to exit.
+[2020.12.28-19.16.35:896][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.12.28-19.16.36:001][ 33]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.12.28-19.16.36:016][ 33]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.12.28-19.16.36:024][ 33]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.28-19.16.36:027][ 33]LogExit: Editor shut down
+[2020.12.28-19.16.36:027][ 33]LogExit: Transaction tracking system shut down
+[2020.12.28-19.16.36:298][ 33]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001B1A00869C0), frame # 689033
+[2020.12.28-19.16.36:298][ 33]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B19FF3AAC0), frame # 689033
+[2020.12.28-19.16.36:298][ 33]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B19FF75C00), frame # 689033
+[2020.12.28-19.16.36:321][ 33]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B1C87A1E00), frame # 689033
+[2020.12.28-19.16.36:321][ 33]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B1B0D016C0), frame # 689033
+[2020.12.28-19.16.36:343][ 33]LogExit: Object subsystem successfully closed.
+[2020.12.28-19.16.36:368][ 33]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.12.28-19.16.36:395][ 33]LogModuleManager: Shutting down and abandoning module DataTableEditor (808)
+[2020.12.28-19.16.36:395][ 33]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (806)
+[2020.12.28-19.16.36:395][ 33]LogModuleManager: Shutting down and abandoning module SceneOutliner (802)
+[2020.12.28-19.16.36:395][ 33]LogModuleManager: Shutting down and abandoning module AddContentDialog (800)
+[2020.12.28-19.16.36:396][ 33]LogModuleManager: Shutting down and abandoning module WidgetCarousel (799)
+[2020.12.28-19.16.36:396][ 33]LogModuleManager: Shutting down and abandoning module EditorWidgets (796)
+[2020.12.28-19.16.36:396][ 33]LogModuleManager: Shutting down and abandoning module CollectionManager (794)
+[2020.12.28-19.16.36:396][ 33]LogModuleManager: Shutting down and abandoning module StatsViewer (792)
+[2020.12.28-19.16.36:396][ 33]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (790)
+[2020.12.28-19.16.36:396][ 33]LogModuleManager: Shutting down and abandoning module FoliageEdit (788)
+[2020.12.28-19.16.36:396][ 33]LogModuleManager: Shutting down and abandoning module LandscapeEditor (786)
+[2020.12.28-19.16.36:398][ 33]LogModuleManager: Shutting down and abandoning module MeshPaintMode (784)
+[2020.12.28-19.16.36:398][ 33]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (782)
+[2020.12.28-19.16.36:398][ 33]LogModuleManager: Shutting down and abandoning module ActorPickerMode (780)
+[2020.12.28-19.16.36:398][ 33]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (778)
+[2020.12.28-19.16.36:398][ 33]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (776)
+[2020.12.28-19.16.36:398][ 33]LogModuleManager: Shutting down and abandoning module AutomationWorker (774)
+[2020.12.28-19.16.36:398][ 33]LogModuleManager: Shutting down and abandoning module SteamVREditor (772)
+[2020.12.28-19.16.36:398][ 33]LogModuleManager: Shutting down and abandoning module OculusMR (770)
+[2020.12.28-19.16.36:398][ 33]LogModuleManager: Shutting down and abandoning module GooglePADEditor (768)
+[2020.12.28-19.16.36:398][ 33]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (766)
+[2020.12.28-19.16.36:398][ 33]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (764)
+[2020.12.28-19.16.36:399][ 33]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (762)
+[2020.12.28-19.16.36:399][ 33]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (760)
+[2020.12.28-19.16.36:399][ 33]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (758)
+[2020.12.28-19.16.36:399][ 33]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (756)
+[2020.12.28-19.16.36:400][ 33]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (754)
+[2020.12.28-19.16.36:400][ 33]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (752)
+[2020.12.28-19.16.36:400][ 33]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (750)
+[2020.12.28-19.16.36:400][ 33]LogModuleManager: Shutting down and abandoning module WebMMedia (748)
+[2020.12.28-19.16.36:400][ 33]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (746)
+[2020.12.28-19.16.36:400][ 33]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (744)
+[2020.12.28-19.16.36:400][ 33]LogModuleManager: Shutting down and abandoning module SequenceRecorder (743)
+[2020.12.28-19.16.36:400][ 33]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (740)
+[2020.12.28-19.16.36:400][ 33]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (738)
+[2020.12.28-19.16.36:400][ 33]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (736)
+[2020.12.28-19.16.36:400][ 33]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (734)
+[2020.12.28-19.16.36:400][ 33]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (732)
+[2020.12.28-19.16.36:400][ 33]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (730)
+[2020.12.28-19.16.36:400][ 33]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (728)
+[2020.12.28-19.16.36:400][ 33]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (726)
+[2020.12.28-19.16.36:400][ 33]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (724)
+[2020.12.28-19.16.36:400][ 33]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (722)
+[2020.12.28-19.16.36:400][ 33]LogModuleManager: Shutting down and abandoning module PlanarCut (720)
+[2020.12.28-19.16.36:401][ 33]LogModuleManager: Shutting down and abandoning module CharacterAI (718)
+[2020.12.28-19.16.36:401][ 33]LogModuleManager: Shutting down and abandoning module TextureAlignMode (716)
+[2020.12.28-19.16.36:401][ 33]LogModuleManager: Shutting down and abandoning module BspMode (714)
+[2020.12.28-19.16.36:401][ 33]LogModuleManager: Shutting down and abandoning module PlacementMode (713)
+[2020.12.28-19.16.36:401][ 33]LogModuleManager: Shutting down and abandoning module GeometryMode (710)
+[2020.12.28-19.16.36:401][ 33]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (708)
+[2020.12.28-19.16.36:401][ 33]LogModuleManager: Shutting down and abandoning module SmartSnapping (706)
+[2020.12.28-19.16.36:401][ 33]LogModuleManager: Shutting down and abandoning module SessionServices (704)
+[2020.12.28-19.16.36:402][ 33]LogModuleManager: Shutting down and abandoning module MeshPaint (702)
+[2020.12.28-19.16.36:402][ 33]LogModuleManager: Shutting down and abandoning module ViewportSnapping (700)
+[2020.12.28-19.16.36:402][ 33]LogModuleManager: Shutting down and abandoning module ViewportInteraction (698)
+[2020.12.28-19.16.36:402][ 33]LogModuleManager: Shutting down and abandoning module ClothPainter (696)
+[2020.12.28-19.16.36:402][ 33]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (695)
+[2020.12.28-19.16.36:403][ 33]LogModuleManager: Shutting down and abandoning module LogVisualizer (692)
+[2020.12.28-19.16.36:403][ 33]LogModuleManager: Shutting down and abandoning module IntroTutorials (690)
+[2020.12.28-19.16.36:403][ 33]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (689)
+[2020.12.28-19.16.36:403][ 33]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (686)
+[2020.12.28-19.16.36:403][ 33]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (684)
+[2020.12.28-19.16.36:403][ 33]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (682)
+[2020.12.28-19.16.36:403][ 33]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (681)
+[2020.12.28-19.16.37:260][ 33]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (678)
+[2020.12.28-19.16.37:260][ 33]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (676)
+[2020.12.28-19.16.37:260][ 33]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (674)
+[2020.12.28-19.16.37:260][ 33]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (672)
+[2020.12.28-19.16.37:260][ 33]LogModuleManager: Shutting down and abandoning module TraceInsights (670)
+[2020.12.28-19.16.37:268][ 33]LogModuleManager: Shutting down and abandoning module TraceServices (669)
+[2020.12.28-19.16.37:269][ 33]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (666)
+[2020.12.28-19.16.37:269][ 33]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (664)
+[2020.12.28-19.16.37:269][ 33]LogModuleManager: Shutting down and abandoning module InputBindingEditor (662)
+[2020.12.28-19.16.37:270][ 33]LogModuleManager: Shutting down and abandoning module MergeActors (660)
+[2020.12.28-19.16.37:270][ 33]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (658)
+[2020.12.28-19.16.37:270][ 33]LogModuleManager: Shutting down and abandoning module LocalizationService (657)
+[2020.12.28-19.16.37:271][ 33]LogModuleManager: Shutting down and abandoning module HardwareTargeting (654)
+[2020.12.28-19.16.37:271][ 33]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (652)
+[2020.12.28-19.16.37:271][ 33]LogModuleManager: Shutting down and abandoning module UndoHistory (650)
+[2020.12.28-19.16.37:271][ 33]LogModuleManager: Shutting down and abandoning module XmlParser (648)
+[2020.12.28-19.16.37:271][ 33]LogModuleManager: Shutting down and abandoning module Blutility (646)
+[2020.12.28-19.16.37:271][ 33]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (644)
+[2020.12.28-19.16.37:271][ 33]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (643)
+[2020.12.28-19.16.37:271][ 33]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (640)
+[2020.12.28-19.16.37:271][ 33]LogModuleManager: Shutting down and abandoning module SettingsEditor (638)
+[2020.12.28-19.16.37:271][ 33]LogModuleManager: Shutting down and abandoning module ProjectLauncher (636)
+[2020.12.28-19.16.37:271][ 33]LogModuleManager: Shutting down and abandoning module SessionFrontend (634)
+[2020.12.28-19.16.37:271][ 33]LogModuleManager: Shutting down and abandoning module ProfilerClient (632)
+[2020.12.28-19.16.37:272][ 33]LogModuleManager: Shutting down and abandoning module DeviceManager (630)
+[2020.12.28-19.16.37:272][ 33]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (629)
+[2020.12.28-19.16.37:306][ 33]LogModuleManager: Shutting down and abandoning module AutomationController (626)
+[2020.12.28-19.16.37:306][ 33]LogModuleManager: Shutting down and abandoning module AutomationWindow (624)
+[2020.12.28-19.16.37:307][ 33]LogModuleManager: Shutting down and abandoning module Layers (622)
+[2020.12.28-19.16.37:308][ 33]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (620)
+[2020.12.28-19.16.37:308][ 33]LogModuleManager: Shutting down and abandoning module DetailCustomizations (618)
+[2020.12.28-19.16.37:308][ 33]LogModuleManager: Shutting down and abandoning module PackagesDialog (616)
+[2020.12.28-19.16.37:308][ 33]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (614)
+[2020.12.28-19.16.37:309][ 33]LogModuleManager: Shutting down and abandoning module Persona (612)
+[2020.12.28-19.16.37:309][ 33]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (611)
+[2020.12.28-19.16.37:309][ 33]LogModuleManager: Shutting down and abandoning module AnimGraph (609)
+[2020.12.28-19.16.37:309][ 33]LogModuleManager: Shutting down and abandoning module Kismet (606)
+[2020.12.28-19.16.37:314][ 33]LogModuleManager: Shutting down and abandoning module KismetWidgets (605)
+[2020.12.28-19.16.37:314][ 33]LogModuleManager: Shutting down and abandoning module GraphEditor (602)
+[2020.12.28-19.16.37:316][ 33]LogModuleManager: Shutting down and abandoning module StructViewer (600)
+[2020.12.28-19.16.37:316][ 33]LogModuleManager: Shutting down and abandoning module ClassViewer (598)
+[2020.12.28-19.16.37:316][ 33]LogModuleManager: Shutting down and abandoning module Toolbox (596)
+[2020.12.28-19.16.37:316][ 33]LogModuleManager: Shutting down and abandoning module ModuleUI (594)
+[2020.12.28-19.16.37:316][ 33]LogModuleManager: Shutting down and abandoning module OutputLog (592)
+[2020.12.28-19.16.37:317][ 33]LogModuleManager: Shutting down and abandoning module GammaUI (590)
+[2020.12.28-19.16.37:317][ 33]LogModuleManager: Shutting down and abandoning module Documentation (588)
+[2020.12.28-19.16.37:317][ 33]LogModuleManager: Shutting down and abandoning module LiveCoding (586)
+[2020.12.28-19.16.37:318][ 33]LogModuleManager: Shutting down and abandoning module LevelSequence (584)
+[2020.12.28-19.16.37:318][ 33]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (582)
+[2020.12.28-19.16.37:318][ 33]LogModuleManager: Shutting down and abandoning module MovieScene (580)
+[2020.12.28-19.16.37:318][ 33]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (578)
+[2020.12.28-19.16.37:318][ 33]LogModuleManager: Shutting down and abandoning module LauncherPlatform (576)
+[2020.12.28-19.16.37:318][ 33]LogModuleManager: Shutting down and abandoning module AnalyticsET (574)
+[2020.12.28-19.16.37:318][ 33]LogModuleManager: Shutting down and abandoning module PortalServices (572)
+[2020.12.28-19.16.37:318][ 33]LogModuleManager: Shutting down and abandoning module PortalRpc (570)
+[2020.12.28-19.16.37:318][ 33]LogModuleManager: Shutting down and abandoning module MessagingRpc (568)
+[2020.12.28-19.16.37:318][ 33]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (566)
+[2020.12.28-19.16.37:318][ 33]LogModuleManager: Shutting down and abandoning module AudioMixerCore (565)
+[2020.12.28-19.16.37:318][ 33]LogModuleManager: Shutting down and abandoning module AIModule (562)
+[2020.12.28-19.16.37:318][ 33]LogModuleManager: Shutting down and abandoning module GameplayDebugger (561)
+[2020.12.28-19.16.37:318][ 33]LogModuleManager: Shutting down and abandoning module AITestSuite (559)
+[2020.12.28-19.16.37:318][ 33]LogModuleManager: Shutting down and abandoning module NavigationSystem (557)
+[2020.12.28-19.16.37:318][ 33]LogModuleManager: Shutting down and abandoning module ProfilerService (554)
+[2020.12.28-19.16.37:401][ 33]LogModuleManager: Shutting down and abandoning module TaskGraph (552)
+[2020.12.28-19.16.37:401][ 33]LogModuleManager: Shutting down and abandoning module MegascansPlugin (550)
+[2020.12.28-19.16.37:401][ 33]LogModuleManager: Shutting down and abandoning module SubstanceLiveLink (548)
+[2020.12.28-19.16.37:401][ 33]LogModuleManager: Shutting down and abandoning module SubstanceSource (546)
+[2020.12.28-19.16.37:402][ 33]LogModuleManager: Shutting down and abandoning module SubstanceEditor (544)
+[2020.12.28-19.16.37:402][ 33]LogModuleManager: Shutting down and abandoning module ScreenshotTools (542)
+[2020.12.28-19.16.37:402][ 33]LogModuleManager: Shutting down and abandoning module SynthesisEditor (540)
+[2020.12.28-19.16.37:402][ 33]LogModuleManager: Shutting down and abandoning module Synthesis (538)
+[2020.12.28-19.16.37:403][ 33]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (536)
+[2020.12.28-19.16.37:403][ 33]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (534)
+[2020.12.28-19.16.37:403][ 33]LogModuleManager: Shutting down and abandoning module OculusEditor (532)
+[2020.12.28-19.16.37:403][ 33]LogModuleManager: Shutting down and abandoning module OculusInput (530)
+[2020.12.28-19.16.37:403][ 33]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (528)
+[2020.12.28-19.16.37:403][ 33]LogModuleManager: Shutting down and abandoning module GooglePAD (526)
+[2020.12.28-19.16.37:403][ 33]LogModuleManager: Shutting down and abandoning module EditableMesh (524)
+[2020.12.28-19.16.37:403][ 33]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (522)
+[2020.12.28-19.16.37:403][ 33]LogModuleManager: Shutting down and abandoning module CableComponent (520)
+[2020.12.28-19.16.37:403][ 33]LogModuleManager: Shutting down and abandoning module AudioCapture (518)
+[2020.12.28-19.16.37:403][ 33]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (517)
+[2020.12.28-19.16.37:403][ 33]LogModuleManager: Shutting down and abandoning module AssetTags (514)
+[2020.12.28-19.16.37:403][ 33]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (512)
+[2020.12.28-19.16.37:403][ 33]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (510)
+[2020.12.28-19.16.37:403][ 33]LogModuleManager: Shutting down and abandoning module AppleImageUtils (508)
+[2020.12.28-19.16.37:403][ 33]LogModuleManager: Shutting down and abandoning module AndroidPermission (506)
+[2020.12.28-19.16.37:403][ 33]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (504)
+[2020.12.28-19.16.37:403][ 33]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (502)
+[2020.12.28-19.16.37:404][ 33]LogModuleManager: Shutting down and abandoning module TemplateSequence (500)
+[2020.12.28-19.16.37:404][ 33]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (498)
+[2020.12.28-19.16.37:404][ 33]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (496)
+[2020.12.28-19.16.37:404][ 33]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (494)
+[2020.12.28-19.16.37:404][ 33]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (492)
+[2020.12.28-19.16.37:404][ 33]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (491)
+[2020.12.28-19.16.37:409][ 33]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (488)
+[2020.12.28-19.16.37:409][ 33]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (486)
+[2020.12.28-19.16.37:409][ 33]LogModuleManager: Shutting down and abandoning module MediaCompositing (484)
+[2020.12.28-19.16.37:409][ 33]LogModuleManager: Shutting down and abandoning module ImgMedia (482)
+[2020.12.28-19.16.37:409][ 33]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (480)
+[2020.12.28-19.16.37:409][ 33]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (478)
+[2020.12.28-19.16.37:409][ 33]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (476)
+[2020.12.28-19.16.37:409][ 33]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (474)
+[2020.12.28-19.16.37:409][ 33]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (472)
+[2020.12.28-19.16.37:409][ 33]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (470)
+[2020.12.28-19.16.37:410][ 33]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (468)
+[2020.12.28-19.16.37:410][ 33]LogModuleManager: Shutting down and abandoning module MeshConversion (466)
+[2020.12.28-19.16.37:410][ 33]LogModuleManager: Shutting down and abandoning module DynamicMesh (464)
+[2020.12.28-19.16.37:412][ 33]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (462)
+[2020.12.28-19.16.37:412][ 33]LogModuleManager: Shutting down and abandoning module GeometricObjects (460)
+[2020.12.28-19.16.37:412][ 33]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (458)
+[2020.12.28-19.16.37:412][ 33]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (457)
+[2020.12.28-19.16.37:412][ 33]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (454)
+[2020.12.28-19.16.37:412][ 33]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (452)
+[2020.12.28-19.16.37:412][ 33]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (450)
+[2020.12.28-19.16.37:412][ 33]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (448)
+[2020.12.28-19.16.37:412][ 33]LogModuleManager: Shutting down and abandoning module ChaosNiagara (446)
+[2020.12.28-19.16.37:412][ 33]LogModuleManager: Shutting down and abandoning module FractureEditor (444)
+[2020.12.28-19.16.37:413][ 33]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (442)
+[2020.12.28-19.16.37:413][ 33]LogModuleManager: Shutting down and abandoning module ChaosCloth (440)
+[2020.12.28-19.16.37:413][ 33]LogModuleManager: Shutting down and abandoning module BackChannel (438)
+[2020.12.28-19.16.37:413][ 33]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (436)
+[2020.12.28-19.16.37:413][ 33]LogModuleManager: Shutting down and abandoning module AutomationUtils (434)
+[2020.12.28-19.16.37:413][ 33]LogModuleManager: Shutting down and abandoning module AlembicImporter (432)
+[2020.12.28-19.16.37:413][ 33]LogModuleManager: Shutting down and abandoning module AlembicLibrary (431)
+[2020.12.28-19.16.37:413][ 33]LogModuleManager: Shutting down and abandoning module GeometryCache (430)
+[2020.12.28-19.16.37:413][ 33]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (429)
+[2020.12.28-19.16.37:413][ 33]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (424)
+[2020.12.28-19.16.37:413][ 33]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (422)
+[2020.12.28-19.16.37:413][ 33]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (420)
+[2020.12.28-19.16.37:413][ 33]LogModuleManager: Shutting down and abandoning module PluginBrowser (418)
+[2020.12.28-19.16.37:413][ 33]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (416)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (414)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (412)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module CurveEditorTools (410)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (408)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module CryptoKeys (406)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (404)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (402)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module UObjectPlugin (400)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (398)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (396)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (394)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (392)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module GitSourceControl (390)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module SourceControl (389)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (386)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (384)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (382)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (380)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (378)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (376)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (374)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module Paper2DEditor (372)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module SoundFields (370)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module SignificanceManager (368)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (366)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (364)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (360)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module ActorSequence (358)
+[2020.12.28-19.16.37:414][ 33]LogModuleManager: Shutting down and abandoning module UdpMessaging (356)
+[2020.12.28-19.16.37:516][ 33]LogModuleManager: Shutting down and abandoning module TcpMessaging (354)
+[2020.12.28-19.16.37:616][ 33]LogModuleManager: Shutting down and abandoning module SubstanceCore (352)
+[2020.12.28-19.16.37:616][ 33]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (350)
+[2020.12.28-19.16.37:616][ 33]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (348)
+[2020.12.28-19.16.37:616][ 33]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (346)
+[2020.12.28-19.16.37:616][ 33]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (344)
+[2020.12.28-19.16.37:616][ 33]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (342)
+[2020.12.28-19.16.37:616][ 33]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.12.28-19.16.37:616][ 33]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (340)
+[2020.12.28-19.16.37:616][ 33]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (338)
+[2020.12.28-19.16.37:616][ 33]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (336)
+[2020.12.28-19.16.37:616][ 33]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (334)
+[2020.12.28-19.16.37:616][ 33]LogModuleManager: Shutting down and abandoning module MagicLeapController (332)
+[2020.12.28-19.16.37:616][ 33]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.12.28-19.16.37:616][ 33]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (330)
+[2020.12.28-19.16.37:616][ 33]LogModuleManager: Shutting down and abandoning module MagicLeapAR (328)
+[2020.12.28-19.16.37:616][ 33]LogModuleManager: Shutting down and abandoning module AugmentedReality (327)
+[2020.12.28-19.16.37:616][ 33]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (324)
+[2020.12.28-19.16.37:617][ 33]LogModuleManager: Shutting down and abandoning module Niagara (322)
+[2020.12.28-19.16.37:617][ 33]LogModuleManager: Shutting down and abandoning module SignalProcessing (321)
+[2020.12.28-19.16.37:617][ 33]LogModuleManager: Shutting down and abandoning module NiagaraEditor (319)
+[2020.12.28-19.16.37:617][ 33]LogModuleManager: Shutting down and abandoning module NiagaraCore (316)
+[2020.12.28-19.16.37:617][ 33]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (314)
+[2020.12.28-19.16.37:617][ 33]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (312)
+[2020.12.28-19.16.37:618][ 33]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (310)
+[2020.12.28-19.16.37:618][ 33]LogModuleManager: Shutting down and abandoning module FacialAnimation (308)
+[2020.12.28-19.16.37:618][ 33]LogModuleManager: Shutting down and abandoning module DataValidation (306)
+[2020.12.28-19.16.37:618][ 33]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (304)
+[2020.12.28-19.16.37:618][ 33]LogModuleManager: Shutting down and abandoning module LevelEditor (303)
+[2020.12.28-19.16.37:619][ 33]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (302)
+[2020.12.28-19.16.37:619][ 33]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (300)
+[2020.12.28-19.16.37:619][ 33]LogModuleManager: Shutting down and abandoning module MainFrame (298)
+[2020.12.28-19.16.37:619][ 33]LogModuleManager: Shutting down and abandoning module HotReload (297)
+[2020.12.28-19.16.37:619][ 33]LogModuleManager: Shutting down and abandoning module ToolMenus (293)
+[2020.12.28-19.16.37:619][ 33]LogModuleManager: Shutting down and abandoning module ContentBrowser (291)
+[2020.12.28-19.16.37:620][ 33]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2020.12.28-19.16.37:620][ 33]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2020.12.28-19.16.37:620][ 33]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2020.12.28-19.16.37:620][ 33]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2020.12.28-19.16.37:620][ 33]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2020.12.28-19.16.37:621][ 33]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2020.12.28-19.16.37:621][ 33]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2020.12.28-19.16.37:621][ 33]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2020.12.28-19.16.37:621][ 33]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2020.12.28-19.16.37:621][ 33]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2020.12.28-19.16.37:622][ 33]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2020.12.28-19.16.37:622][ 33]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2020.12.28-19.16.37:622][ 33]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2020.12.28-19.16.37:622][ 33]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2020.12.28-19.16.37:623][ 33]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2020.12.28-19.16.37:623][ 33]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2020.12.28-19.16.37:623][ 33]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2020.12.28-19.16.37:625][ 33]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2020.12.28-19.16.37:625][ 33]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2020.12.28-19.16.37:626][ 33]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (251)
+[2020.12.28-19.16.37:626][ 33]LogModuleManager: Shutting down and abandoning module UMG (248)
+[2020.12.28-19.16.37:626][ 33]LogModuleManager: Shutting down and abandoning module UMGEditor (247)
+[2020.12.28-19.16.37:626][ 33]LogModuleManager: Shutting down and abandoning module MessageLog (245)
+[2020.12.28-19.16.37:626][ 33]LogModuleManager: Shutting down and abandoning module MaterialEditor (243)
+[2020.12.28-19.16.37:627][ 33]LogModuleManager: Shutting down and abandoning module SlateReflector (238)
+[2020.12.28-19.16.37:628][ 33]LogModuleManager: Shutting down and abandoning module Slate (236)
+[2020.12.28-19.16.37:628][ 33]LogModuleManager: Shutting down and abandoning module SlateCore (234)
+[2020.12.28-19.16.37:628][ 33]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (232)
+[2020.12.28-19.16.37:628][ 33]LogModuleManager: Shutting down and abandoning module UnrealEd (230)
+[2020.12.28-19.16.37:628][ 33]LogModuleManager: Shutting down and abandoning module MRMesh (228)
+[2020.12.28-19.16.37:628][ 33]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (226)
+[2020.12.28-19.16.37:628][ 33]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (224)
+[2020.12.28-19.16.37:628][ 33]LogModuleManager: Shutting down and abandoning module XAudio2 (222)
+[2020.12.28-19.16.37:628][ 33]LogModuleManager: Shutting down and abandoning module Networking (220)
+[2020.12.28-19.16.37:628][ 33]LogModuleManager: Shutting down and abandoning module Core (218)
+[2020.12.28-19.16.37:628][ 33]LogModuleManager: Shutting down and abandoning module MovieSceneTools (216)
+[2020.12.28-19.16.37:628][ 33]LogModuleManager: Shutting down and abandoning module CurveEditor (215)
+[2020.12.28-19.16.37:629][ 33]LogModuleManager: Shutting down and abandoning module Sequencer (213)
+[2020.12.28-19.16.37:630][ 33]LogModuleManager: Shutting down and abandoning module EditorStyle (212)
+[2020.12.28-19.16.37:630][ 33]LogModuleManager: Shutting down and abandoning module KismetCompiler (208)
+[2020.12.28-19.16.37:630][ 33]LogModuleManager: Shutting down and abandoning module MeshBuilder (206)
+[2020.12.28-19.16.37:630][ 33]LogModuleManager: Shutting down and abandoning module MeshUtilities (204)
+[2020.12.28-19.16.37:630][ 33]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (203)
+[2020.12.28-19.16.37:630][ 33]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (202)
+[2020.12.28-19.16.37:630][ 33]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (201)
+[2020.12.28-19.16.37:630][ 33]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (199)
+[2020.12.28-19.16.37:631][ 33]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (197)
+[2020.12.28-19.16.37:631][ 33]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (195)
+[2020.12.28-19.16.37:632][ 33]LogModuleManager: Shutting down and abandoning module MaterialBaking (191)
+[2020.12.28-19.16.37:632][ 33]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (186)
+[2020.12.28-19.16.37:632][ 33]LogModuleManager: Shutting down and abandoning module DerivedDataCache (184)
+[2020.12.28-19.16.37:632][ 33]LogModuleManager: Shutting down and abandoning module XGEController (182)
+[2020.12.28-19.16.37:632][ 33]LogXGEController: Cleaning working directory: C:/Users/Alec/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.28-19.16.37:632][ 33]LogModuleManager: Shutting down and abandoning module TargetPlatform (180)
+[2020.12.28-19.16.37:632][ 33]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (179)
+[2020.12.28-19.16.37:632][ 33]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (177)
+[2020.12.28-19.16.37:632][ 33]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (175)
+[2020.12.28-19.16.37:632][ 33]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (173)
+[2020.12.28-19.16.37:632][ 33]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (171)
+[2020.12.28-19.16.37:633][ 33]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (169)
+[2020.12.28-19.16.37:633][ 33]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (167)
+[2020.12.28-19.16.37:633][ 33]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (165)
+[2020.12.28-19.16.37:633][ 33]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (163)
+[2020.12.28-19.16.37:633][ 33]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (161)
+[2020.12.28-19.16.37:633][ 33]LogModuleManager: Shutting down and abandoning module ImageWrapper (160)
+[2020.12.28-19.16.37:633][ 33]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (157)
+[2020.12.28-19.16.37:633][ 33]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (155)
+[2020.12.28-19.16.37:633][ 33]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (153)
+[2020.12.28-19.16.37:633][ 33]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (151)
+[2020.12.28-19.16.37:633][ 33]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (149)
+[2020.12.28-19.16.37:633][ 33]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (147)
+[2020.12.28-19.16.37:633][ 33]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (145)
+[2020.12.28-19.16.37:633][ 33]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (143)
+[2020.12.28-19.16.37:633][ 33]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (141)
+[2020.12.28-19.16.37:634][ 33]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (139)
+[2020.12.28-19.16.37:634][ 33]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (137)
+[2020.12.28-19.16.37:634][ 33]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (135)
+[2020.12.28-19.16.37:634][ 33]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (133)
+[2020.12.28-19.16.37:634][ 33]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (131)
+[2020.12.28-19.16.37:634][ 33]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (129)
+[2020.12.28-19.16.37:634][ 33]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (127)
+[2020.12.28-19.16.37:634][ 33]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2020.12.28-19.16.37:634][ 33]LogModuleManager: Shutting down and abandoning module Messaging (123)
+[2020.12.28-19.16.37:634][ 33]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (121)
+[2020.12.28-19.16.37:635][ 33]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (119)
+[2020.12.28-19.16.37:637][ 33]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (117)
+[2020.12.28-19.16.37:637][ 33]LogModuleManager: Shutting down and abandoning module InputCore (114)
+[2020.12.28-19.16.37:637][ 33]LogModuleManager: Shutting down and abandoning module Settings (112)
+[2020.12.28-19.16.37:637][ 33]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (110)
+[2020.12.28-19.16.37:638][ 33]LogModuleManager: Shutting down and abandoning module PhysXCooking (108)
+[2020.12.28-19.16.37:638][ 33]LogModuleManager: Shutting down and abandoning module ChaosSolvers (106)
+[2020.12.28-19.16.37:638][ 33]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (105)
+[2020.12.28-19.16.37:638][ 33]LogModuleManager: Shutting down and abandoning module Chaos (102)
+[2020.12.28-19.16.37:638][ 33]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (100)
+[2020.12.28-19.16.37:638][ 33]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (99)
+[2020.12.28-19.16.37:638][ 33]LogModuleManager: Shutting down and abandoning module AVEncoder (98)
+[2020.12.28-19.16.37:638][ 33]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (94)
+[2020.12.28-19.16.37:638][ 33]LogModuleManager: Shutting down and abandoning module SteamVRInput (92)
+[2020.12.28-19.16.37:638][ 33]LogModuleManager: Shutting down and abandoning module SteamVR (90)
+[2020.12.28-19.16.37:638][ 33]LogHMD: Freeing OpenVRDLLHandle.
+[2020.12.28-19.16.37:638][ 33]LogModuleManager: Shutting down and abandoning module OculusHMD (88)
+[2020.12.28-19.16.37:638][ 33]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (86)
+[2020.12.28-19.16.37:639][ 33]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (84)
+[2020.12.28-19.16.37:639][ 33]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (82)
+[2020.12.28-19.16.37:639][ 33]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (78)
+[2020.12.28-19.16.37:639][ 33]LogModuleManager: Shutting down and abandoning module XMPP (73)
+[2020.12.28-19.16.37:640][ 33]LogModuleManager: Shutting down and abandoning module WebSockets (72)
+[2020.12.28-19.16.37:651][ 33]LogModuleManager: Shutting down and abandoning module HTTP (69)
+[2020.12.28-19.16.37:651][ 33]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.12.28-19.16.37:651][ 33]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B236128BD-43D7-3CC5-961C-C39BC293DA7A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=32d0fd6f423389d24a59429fb19e88e1%7C70fa183f5f064a7bba8ccc4fb906cb70%7C60dce6e9-a400-46cd-9579-b9266457794d&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.12.28-19.16.37:663][ 33]LogModuleManager: Shutting down and abandoning module SSL (68)
+[2020.12.28-19.16.37:664][ 33]LogModuleManager: Shutting down and abandoning module WmfMedia (64)
+[2020.12.28-19.16.37:665][ 33]LogModuleManager: Shutting down and abandoning module Media (63)
+[2020.12.28-19.16.37:666][ 33]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2020.12.28-19.16.37:666][ 33]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2020.12.28-19.16.37:666][ 33]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2020.12.28-19.16.37:666][ 33]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2020.12.28-19.16.37:666][ 33]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2020.12.28-19.16.37:667][ 33]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2020.12.28-19.16.37:667][ 33]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2020.12.28-19.16.37:667][ 33]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2020.12.28-19.16.37:667][ 33]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.12.28-19.16.37:667][ 33]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.12.28-19.16.37:667][ 33]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.12.28-19.16.37:667][ 33]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.12.28-19.16.37:667][ 33]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.12.28-19.16.37:667][ 33]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.12.28-19.16.37:668][ 33]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.12.28-19.16.37:668][ 33]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.12.28-19.16.37:668][ 33]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.12.28-19.16.37:668][ 33]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.12.28-19.16.37:669][ 33]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.12.28-19.16.37:669][ 33]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.12.28-19.16.37:669][ 33]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.12.28-19.16.37:669][ 33]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.12.28-19.16.37:669][ 33]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.12.28-19.16.37:669][ 33]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.12.28-19.16.37:669][ 33]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.12.28-19.16.37:669][ 33]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.12.28-19.16.37:669][ 33]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.12.28-19.16.37:670][ 33]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.12.28-19.16.37:670][ 33]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.12.28-19.16.37:670][ 33]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.12.28-19.16.37:670][ 33]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.12.28-19.16.37:718][ 33]LogD3D11RHI: Shutdown
+[2020.12.28-19.16.37:718][ 33]LogD3D11RHI: CleanupD3DDevice
+[2020.12.28-19.16.37:738][ 33]LogExit: Exiting.
+[2020.12.28-19.16.37:773][ 33]Log file closed, 12/28/20 14:16:37
